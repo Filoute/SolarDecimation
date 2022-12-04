@@ -1,0 +1,10 @@
+name: LunaZCore
+version: '${project.version}'
+main: unnaincompris.LunaZ.Main
+api-version: 1.19
+authors: [ UnNainCompris ]
+depend:
+  - WorldGuard
+  - SimpleClans
+  - WorldEdit
+description: Core plugins for LunaZ
